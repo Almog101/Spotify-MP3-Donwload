@@ -5,7 +5,7 @@ Download playlists / songs from spotify in mp3 using python
 
 ## Description
 
-If you wanted free and open - source way to not pay spotify premium just to download your favorite songs, this is soulution. with one easy command you can download an entire playlist in a couple of minutes.
+If you wanted free and open source way to not pay spotify premium just to download your favorite songs, this is your soulution. with one easy command you can download an entire playlist in a couple of minutes.
 
 
 ## Installation
