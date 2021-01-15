@@ -14,7 +14,7 @@ If you wanted free and open - source way to not pay spotify premium just to down
 # clone the repo
 $ git clone https://github.com/Almog101/SpotifyToMp3.git
 
-# change the working directory to sherlock
+# change the working directory to SpotifyToMp3
 $ cd SpotifyToMp3
 
 # install the requirements
