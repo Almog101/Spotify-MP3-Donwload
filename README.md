@@ -22,6 +22,7 @@ $ python3 -m pip install -r requirements.txt
 ```
 
 ## Usage
+Add your Client_ID and Client_Secret to config.ini then:
 
 ```console
 $ python3 main.py -h
