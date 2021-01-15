@@ -42,6 +42,7 @@ if __name__ == "__main__":
     ifc = interface()
     
     if len(sys.argv) == 1:
+        ifc.help_()
         exit()
     type_ = sys.argv[1]
     
