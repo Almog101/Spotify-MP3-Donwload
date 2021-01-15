@@ -32,6 +32,6 @@ SpotifyToMP3 - download entire playlists in one command
 
 ex. python3 main.py -p spotify:playlist:1XCZZ48KvoPCF3MGPWwxWi
 
-Made by Almog Ben-Akvia
+Made by Almog Ben-Akiva
 ```
 
