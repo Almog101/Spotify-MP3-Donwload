@@ -14,7 +14,7 @@ If you wanted free and open - source way to not pay spotify premium just to down
 # clone the repo
 $ git clone https://github.com/Almog101/SpotifyToMp3.git
 
-# change the working directory to sherlock
+# change the working directory to SpotifyToMp3
 $ cd SpotifyToMp3
 
 # install the requirements
@@ -22,6 +22,7 @@ $ python3 -m pip install -r requirements.txt
 ```
 
 ## Usage
+Add your Client_ID and Client_Secret to config.ini then:
 
 ```console
 $ python3 main.py -h
