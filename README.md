@@ -12,10 +12,10 @@ If you wanted free and open source way to not pay spotify premium just to downlo
 
 ```console
 # clone the repo
-$ git clone https://github.com/Almog101/SpotifyToMp3.git
+$ git clone https://github.com/Almog101/Spotify-MP3-Donwload.git
 
-# change the working directory to SpotifyToMp3
-$ cd SpotifyToMp3
+# change the working directory to Spotify-MP3-Donwload
+$ cd Spotify-MP3-Donwload
 
 # install the requirements
 $ python3 -m pip install -r requirements.txt
